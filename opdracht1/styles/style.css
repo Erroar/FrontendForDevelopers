@@ -6,8 +6,6 @@
     --main-red: #e60012;
     --main-blue: #00c3e3;
     --accent-color: #ffffff;
-    --screen-color: #000000;
-    --screen-border: #333333;
 }
 
 /****************/
@@ -114,12 +112,11 @@ h1 {
     width: 8em;
     text-align: center;
     padding: 0.9em 0em;
-    background-color: var(--screen-color);
-    border-color: var(--screen-border);
+    border-color: var(--accent-color);
     border-width: 0.4em;
     border-style: solid;
     opacity: 0;
-    transform: translateY(-0.84em);
+    transform: translateY(-0.85em);
 }
 
 body:hover h1 {
@@ -149,6 +146,7 @@ span:nth-of-type(12),
 span:nth-of-type(13),
 span:nth-of-type(14) {
     font-size: 1.45em;
+    transform: translateX(-100vw);
 }
 
 body:hover span {
@@ -225,3 +223,6 @@ body:hover span:nth-child(13) {
 body:hover span:nth-child(14) {
     animation-delay: 7s;
 }
+
+
+
