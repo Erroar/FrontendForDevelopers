@@ -50,13 +50,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je uitkomst - karakteristiek screenshot(s):
   
-  <img src="readme-images/Joycon omhoog.png" width="375px" alt="uitomst opdracht 1">
   <img src="readme-images/Begin Animatie.png" width="375px" alt="top">
+  <img src="readme-images/Joycon omhoog.png" width="375px" alt="uitomst opdracht 1">
 
   ### Dit ging goed/Heb ik geleerd: 
   Ik vind de vormen die ik heb kunnen creeëren met mijn animatie goed gelukt en passen bij de Nintendo Switch, het heeft de vorm van een Switch en de animatie past bij hoe de console werkt en de branding van Nintendo. Ik heb geleerd om objecten beter uit te lijnen en heb me verder kunnen verdiepen in het werken met animaties en het toepassen van keyframes. 
   
   <img src="readme-images/Animatie Start.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/Letters.png" width="375px" alt="top">
   
 
   ### Dit was lastig/Is niet gelukt:
