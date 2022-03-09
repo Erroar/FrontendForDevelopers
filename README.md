@@ -14,7 +14,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 ## Bronnenlijst
-  1. -bron 1-
+  1. https://www.youtube.com/watch?v=I9PJ2vrwpYM&ab_channel=CodingArtist Voorbeeld voor hoe vallende tekst gemaakt kan worden.
   2. -bron 2-
   3. -...-
 
@@ -32,10 +32,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Het maken van vormen met alleen CSS
+  - Beter begrijpen wat ik allemaal met de before en after properties kan doen
+  - Mooie vloeiende animaties maken
+  - Het creeeren van een eindproduct dat goed past bij de look en feel van mijn gekozen brand
  
 </details>
 
