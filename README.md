@@ -49,14 +49,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/Animatie Start.png" width="375px" alt="uitomst opdracht 1">
+  
   <img src="readme-images/Joycon omhoog.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/Begin Animatie.png" width="375px" alt="top">
 
   ### Dit ging goed/Heb ik geleerd: 
   Ik vind de vormen die ik heb kunnen creeëren met mijn animatie goed gelukt en passen bij de Nintendo Switch, het heeft de vorm van een Switch en de animatie past bij hoe de console werkt en de branding van Nintendo. Ik heb geleerd om objecten beter uit te lijnen en heb me verder kunnen verdiepen in het werken met animaties en het toepassen van keyframes. 
-
-  <img src="readme-images/Begin Animatie.png" width="375px" alt="top">
-
+  
+  <img src="readme-images/Animatie Start.png" width="375px" alt="uitomst opdracht 1">
+  
 
   ### Dit was lastig/Is niet gelukt:
   Ik had graag wat meer fancy dingetjes gedaan met mijn animatie, de letters zelf doen nu namelijk niet zoveel als de console die ik eromheen heb gebouwd. Verder zou ik ook beter willen zijn in het aanpassen van mijn css zodat het ook op mobiel goed werkt. In mijn inspector werkt het soms wel, soms niet zonder de code die ik er extra bij gemaakt heb en ik twijfel of het goed is.
