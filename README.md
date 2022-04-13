@@ -24,14 +24,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details open>
   <summary>uitwerken na schetsen idee (voor week 2)</summary>
+  
 
-
+---
   ### Je storyboard:
+  
+  
+---
   <img src="readme-images/WhatsApp Image 2022-03-09 at 13.23.02 (1).jpeg" width="375px" alt="storyboard voor opdracht 1">
   <img src="readme-images/WhatsApp Image 2022-03-09 at 13.23.02.jpeg" width="375px" alt="storyboard voor opdracht 1">
 
 
   ### Je ambitie: 
+  
+  
+---
   Aan deze technieken/punten wil ik werken:
   - Het maken van vormen met alleen CSS
   - Beter begrijpen wat ik allemaal met de before en after properties kan doen
@@ -46,27 +53,33 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details open>
   <summary>uitwerken bij afronden opdracht (voor week 3)</summary>
-
-
+  
+  
+---
   ### Je uitkomst - karakteristiek screenshot(s):
   
   
+---
   <img src="readme-images/Begin Animatie.png" width="375px" alt="top">
   <img src="readme-images/Joycon omhoog.png" width="375px" alt="uitomst opdracht 1">
-
   
+  
+---  
   ### Dit ging goed/Heb ik geleerd: 
   Ik vind de vormen die ik heb kunnen creeëren met mijn animatie goed gelukt en passen bij de Nintendo Switch, het heeft de vorm van een Switch en de animatie past bij hoe de console werkt en de branding van Nintendo. Ik heb geleerd om objecten beter uit te lijnen en heb me verder kunnen verdiepen in het werken met animaties en het toepassen van keyframes. 
   
   
+---
   <img src="readme-images/Animatie Start.png" width="375px" alt="uitomst opdracht 1">
   <img src="readme-images/Letters.png" width="375px" alt="top">
   
-
+  
+---
   ### Dit was lastig/Is niet gelukt:
   Ik had graag wat meer fancy dingetjes gedaan met mijn animatie, de letters zelf doen nu namelijk niet zoveel als de console die ik eromheen heb gebouwd. Verder zou ik ook beter willen zijn in het aanpassen van mijn css zodat het ook op mobiel goed werkt. In mijn inspector werkt het soms wel, soms niet zonder de code die ik er extra bij gemaakt heb en ik twijfel of het goed is.
 
   
+---
   <img src="readme-images/Mobile.png" width="375px" alt="bummer">
 </details>
 
