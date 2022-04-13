@@ -1,0 +1,220 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* Root met Dark en Light Mode variant */
+
+:root {
+    --main-color: #ff2e3f;
+    --background-color: #D9D9D9;
+    --accent-color: #35A8E0;
+    --button-color: #fff;
+    --shadow: #000;
+    --size-small: 1em;
+    --size-medium: 2em;
+    --size-big: 3em;
+}
+
+html[data-theme='light'] {
+    --main-color: #ff2e3f;
+    --background-color: #D9D9D9;
+    --accent-color: #35A8E0;
+    --button-color: #fff;
+    --shadow: #000;
+}
+
+html[data-theme='dark'] {
+    --main-color: #ff2e3f;
+    --background-color: #000;
+    --accent-color: #35A8E0;
+    --button-color: #fff;
+    --shadow: #6d6d6d;
+}
+
+/* Hoofdstijling pagina */
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    background-color: var(--background-color);
+}
+
+h1 {
+    margin-top: var(--size-small);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: var(--size-big);
+    color: var(--main-color)
+}
+
+p {
+    margin: var(--size-small);
+    color: var(--button-color);
+}
+
+h2 {
+    font-size: var(--size-big);
+    transform: translateX(-100vw);
+    opacity: 1;
+    font-weight: bold;
+    color: var(--main-color)
+}
+
+body > span {
+    background-color: var(--main-color);
+    width: var(--size-small);
+    height: var(--size-small);
+    padding: var(--size-small);
+    border-radius: 50%;
+    margin-bottom: var(--size-small);
+    align-content: center;
+}
+
+div {
+    display: block;
+    width: var(--size-big);
+    height: var(--size-medium);
+    border-radius: 50%;
+    background-color: var(--button-color);
+    transition: 0.5s;
+}
+
+/* Verandering gat tijdens slepen */
+
+.dragging {
+    width: 4em;
+}
+
+/* Stijling van de button */
+
+button {
+    margin: var(--size-small);
+    padding: var(--size-small);
+    border-radius: 0.7em;
+    background-color: var(--accent-color);
+    color: var(--button-color);
+    border: none;
+    box-shadow: 0 0.3em var(--shadow);
+    font-weight: bold;
+}
+
+button:active {
+    transform: translateY(0.3em);
+    box-shadow: 0 0.1em var(--shadow);
+}
+
+/* Stijling van de Bingokaart */
+
+table {
+    border-spacing: 0.5em;
+}
+
+th {
+    color: var(--button-color);
+}
+
+tbody tr td {
+    background-color: var(--main-color);
+    width: var(--size-small);
+    height: var(--size-small);
+    padding: var(--size-small);
+    align-content: center;
+    border-radius: 50%;
+    transition: 0.5s;
+}
+
+/* Animatie balletje matcht */
+
+.Match {
+    background-color: var(--accent-color);
+    animation: bump 0.5s linear;
+}
+
+@keyframes bump {
+    50% {
+        transform: translateY(-1em);
+        width: 1.1em;
+        height: 0.9em;
+    }
+}
+
+/* Animatie bij gewonnen spel */
+
+button:last-of-type {
+    transform: translateX(-100vw);
+    opacity: 1;
+}
+
+.Gewonnen {
+    animation: schuiven 3s forwards;
+}
+
+@keyframes schuiven {
+    0% {
+        opacity: 0;
+    }
+    70% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+    90% {
+        transform: scale(1.2, .8);
+    }
+    100% {
+        transform: scale(1, 1);
+    }
+}
+
+.Winner {
+    opacity: 0;
+    transition: 5s;
+}
