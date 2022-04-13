@@ -44,17 +44,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Opdracht 1 reflectie
 
-<details>
+<details open>
   <summary>uitwerken bij afronden opdracht (voor week 3)</summary>
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
   
+  
   <img src="readme-images/Begin Animatie.png" width="375px" alt="top">
   <img src="readme-images/Joycon omhoog.png" width="375px" alt="uitomst opdracht 1">
 
+  
   ### Dit ging goed/Heb ik geleerd: 
   Ik vind de vormen die ik heb kunnen creeëren met mijn animatie goed gelukt en passen bij de Nintendo Switch, het heeft de vorm van een Switch en de animatie past bij hoe de console werkt en de branding van Nintendo. Ik heb geleerd om objecten beter uit te lijnen en heb me verder kunnen verdiepen in het werken met animaties en het toepassen van keyframes. 
+  
   
   <img src="readme-images/Animatie Start.png" width="375px" alt="uitomst opdracht 1">
   <img src="readme-images/Letters.png" width="375px" alt="top">
@@ -63,6 +66,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Dit was lastig/Is niet gelukt:
   Ik had graag wat meer fancy dingetjes gedaan met mijn animatie, de letters zelf doen nu namelijk niet zoveel als de console die ik eromheen heb gebouwd. Verder zou ik ook beter willen zijn in het aanpassen van mijn css zodat het ook op mobiel goed werkt. In mijn inspector werkt het soms wel, soms niet zonder de code die ik er extra bij gemaakt heb en ik twijfel of het goed is.
 
+  
   <img src="readme-images/Mobile.png" width="375px" alt="bummer">
 </details>
 
@@ -70,7 +74,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Opdracht 2 plan
 
-<details>
+<details open>
   <summary>uitwerken na schetsen idee (voor week 4)</summary>
 
 
@@ -90,9 +94,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Opdracht 2 reflectie
 
-<details>
+<details open>
   <summary>uitwerken bij afronden opdracht (voor week 8)</summary>
 
+  
   ### Je uitkomst - karakteristiek screenshot(s):
   <img src="readme-images/BingoBingo.png" width="375px" alt="uitkomst opdracht 2">
 
@@ -100,11 +105,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Dit ging goed/Heb ik geleerd: 
   Ik vind dat mijn Javascript goed gelukt is en ondanks dat de opmaak wat minimalistisch is ziet het er niet verkeerd uit. De bingokaart functioneert en kan zichzelf afstrepen zodra een balletje getrokken is. Ik heb custom properties verder proberen toe te passen dan op alleen kleur en veel voorkomende waarde verwerkt in de root. Daarnaast ben ik tevreden over de automatische Light en Dark mode die zichzelf instelt op basis van de gebruikers voorkeur. 
 
+  
   <img src="readme-images/BingoBalletje.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Ik had graag iets dieper in de drag en drop willen duiken. Deze is nu minimaal uitgewerkt. Verder had ik meer aandacht aan de opmaak willen besteden en meer interactie animaties willen toepassen. Daarnaast had mijn Javascript iets compacter gekund, maar helaas kreeg ik dit niet goed voor elkaar door mijn mindere kennis over het gebruikt van loops.
 
+  
   <img src="readme-images/BingoWinner.png" width="375px" alt="bummer">
 </details>
