@@ -94,17 +94,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken bij afronden opdracht (voor week 8)</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="uitkomst opdracht 2">
+  <img src="readme-images/BingoBingo.png" width="375px" alt="uitkomst opdracht 2">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Ik vind dat mijn Javascript goed gelukt is en ondanks dat de opmaak wat minimalistisch is ziet het er niet verkeerd uit. De bingokaart functioneert en kan zichzelf afstrepen zodra een balletje getrokken is. Ik heb custom properties verder proberen toe te passen dan op alleen kleur en veel voorkomende waarde verwerkt in de root. Daarnaast ben ik tevreden over de automatische Light en Dark mode die zichzelf instelt op basis van de gebruikers voorkeur. 
 
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="top">
+  <img src="readme-images/BingoBalletje.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Ik had graag iets dieper in de drag en drop willen duiken. Deze is nu minimaal uitgewerkt. Verder had ik meer aandacht aan de opmaak willen besteden en meer interactie animaties willen toepassen. Daarnaast had mijn Javascript iets compacter gekund, maar helaas kreeg ik dit niet goed voor elkaar door mijn mindere kennis over het gebruikt van loops.
 
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
+  <img src="readme-images/BingoWinner.png" width="375px" alt="bummer">
 </details>
