@@ -15,8 +15,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Bronnenlijst
   1. https://www.youtube.com/watch?v=I9PJ2vrwpYM&ab_channel=CodingArtist Voorbeeld voor hoe vallende tekst gemaakt kan worden.
-  2. -bron 2-
-  3. -...-
+  2. https://lukelowrey.com/css-variable-theme-switcher/ Uitleg over Light en Dark-mode en hoe dit toegepast kan worden.
+  3. https://css-tricks.com/snippets/css/a-guide-to-flexbox/ Duidelijke visuele uitleg over de mogelijkheden van Flex.
 
 
 
@@ -75,46 +75,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je ontwerp:
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="ontwerp opdracht 2">
+  <img src="readme-images/BingoStoryBoard.png" width="500px" alt="ontwerp opdracht 2">
 
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-</details>
-
-
-
-## Opdracht 2 test
-
-<details>
-  <summary>uitwerken na testen (week 6/7)</summary>
-
-  Neem minimaal 5 bevindingen op:
-
-
-
-  ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
-  #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
-
-
-  ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
-  #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
-
-
-  ### Bevinding 3:
-  ...
+  - Het maken van een werkende Bingokaart die zelf herkent of het balletje overeenkomt met 1 van de nummers op de kaart doormiddel van Javascript.
+  - Beter begrijpen en oefenen met Custom Properties en een de root in css.
+  - Toepassen van Light/Dark-mode zonder dat hier een knop voor hoeft ingedrukt te worden. De code moet zien wat de gebruiker als voorkeur heeft ingesteld.
+  - Het toepassen van Drag&Drop in een webpagina.
 </details>
 
 
@@ -129,13 +98,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatje(s)
+  Ik vind dat mijn Javascript goed gelukt is en ondanks dat de opmaak wat minimalistisch is ziet het er niet verkeerd uit. De bingokaart functioneert en kan zichzelf afstrepen zodra een balletje getrokken is. Ik heb custom properties verder proberen toe te passen dan op alleen kleur en veel voorkomende waarde verwerkt in de root. Daarnaast ben ik tevreden over de automatische Light en Dark mode die zichzelf instelt op basis van de gebruikers voorkeur. 
 
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatje(s)
+  Ik had graag iets dieper in de drag en drop willen duiken. Deze is nu minimaal uitgewerkt. Verder had ik meer aandacht aan de opmaak willen besteden en meer interactie animaties willen toepassen. Daarnaast had mijn Javascript iets compacter gekund, maar helaas kreeg ik dit niet goed voor elkaar door mijn mindere kennis over het gebruikt van loops.
 
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
 </details>
